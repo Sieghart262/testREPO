@@ -1,0 +1,1 @@
+print("hanh sieu dep trai cu to")
